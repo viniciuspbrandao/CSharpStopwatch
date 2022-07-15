@@ -1,0 +1,15 @@
+C:\devTestes\CSharp\CSharpStopwatch\bin\Debug\net6.0\CSharpStopwatch.exe
+C:\devTestes\CSharp\CSharpStopwatch\bin\Debug\net6.0\CSharpStopwatch.deps.json
+C:\devTestes\CSharp\CSharpStopwatch\bin\Debug\net6.0\CSharpStopwatch.runtimeconfig.json
+C:\devTestes\CSharp\CSharpStopwatch\bin\Debug\net6.0\CSharpStopwatch.dll
+C:\devTestes\CSharp\CSharpStopwatch\bin\Debug\net6.0\CSharpStopwatch.pdb
+C:\devTestes\CSharp\CSharpStopwatch\obj\Debug\net6.0\CSharpStopwatch.csproj.AssemblyReference.cache
+C:\devTestes\CSharp\CSharpStopwatch\obj\Debug\net6.0\CSharpStopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\devTestes\CSharp\CSharpStopwatch\obj\Debug\net6.0\CSharpStopwatch.AssemblyInfoInputs.cache
+C:\devTestes\CSharp\CSharpStopwatch\obj\Debug\net6.0\CSharpStopwatch.AssemblyInfo.cs
+C:\devTestes\CSharp\CSharpStopwatch\obj\Debug\net6.0\CSharpStopwatch.csproj.CoreCompileInputs.cache
+C:\devTestes\CSharp\CSharpStopwatch\obj\Debug\net6.0\CSharpStopwatch.dll
+C:\devTestes\CSharp\CSharpStopwatch\obj\Debug\net6.0\refint\CSharpStopwatch.dll
+C:\devTestes\CSharp\CSharpStopwatch\obj\Debug\net6.0\CSharpStopwatch.pdb
+C:\devTestes\CSharp\CSharpStopwatch\obj\Debug\net6.0\CSharpStopwatch.genruntimeconfig.cache
+C:\devTestes\CSharp\CSharpStopwatch\obj\Debug\net6.0\ref\CSharpStopwatch.dll
